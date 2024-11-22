@@ -1,0 +1,9 @@
+[Desktop Entry]
+Type=Application
+Encoding=UTF-8
+Icon=/home/cyborg/Documents/c_programing/project_game_launcher/ico.png
+Name=GAME LAUNCHER
+Exec=/home/cyborg/Documents/c_programing/project_game_launcher/src/main
+Terminal=false
+
+

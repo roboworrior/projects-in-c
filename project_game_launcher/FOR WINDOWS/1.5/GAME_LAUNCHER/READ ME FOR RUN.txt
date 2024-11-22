@@ -1,0 +1,25 @@
+1) make epsxe emultor on windows path so the program can acees through cmd 
+2) for background use back.png in extra foler and copy tho main where main exe is present rename back1 to back.png
+3) config epsxe emulator according to your game and controller as well
+4)paste game poster in your rom main game foler and make shure poster ,folder and rom file have same name like 
+
+ex.1
+ 
+RESIDENT_EVIL === this is folder name       
+RESIDENT_EVIL.png
+RESIDENT_EVIL.bin
+
+no sapce in name  please
+
+path looks like 
+
+rom/RESIDENT_EVIL/RESIDENT_EVIL.bin
+rom/RESIDENT_EVIL/RESIDENT_EVIL.png
+
+you can check the path in cmd window next to main game launcher window
+if path or name miss match game wont show 
+
+
+
+
+

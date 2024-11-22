@@ -1,0 +1,11 @@
+fullscreen support
+
+windows 10 compaitible 
+
+atomaticly detectcs your resalution 
+
+keybord shortcuts 
+
+[ESCAPE] close the program 
+[f11] fullscreen
+[f12] unfullscreen
