@@ -1,0 +1,17 @@
+
+
+expenses -300						main balance :-300
+
+Asian paints x 10 : 2700    net profit : 930						main balance :630
+
+tata x 15 : BUY = 10  SALE = 15    net profit : 59						main balance :689
+
+1 x 1 : BUY = 1  SALE = 1    net profit : -16						main balance :614
+
+2  : 22						main balance :636
+
+1111111 x 1 : BUY = 1  SALE = 11    net profit : -6						main balance :630
+
+2  : 2						main balance :632
+
+expenses -22						main balance :610
